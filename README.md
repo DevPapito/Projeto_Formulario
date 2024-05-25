@@ -24,4 +24,10 @@ gosto bastante de bla bla bla
 <p>Outro ponto legal é esse bla bla bla </p>
 <img href="#" height="100px" width="500px">
 <h2>Disponibilidade de uso</h2>
-<p><i>FECHADO</i> | Não disponivel para uso</p>
+
+
+<h3><i>FECHADO</i></h3>
+<p> | Não disponivel para uso</p>
+<h3><i>DISPONÍVEL</i></h3>
+<p> | Link para dowload ou acesso: </p>
+<a href="#">Projeto aqui</a>
