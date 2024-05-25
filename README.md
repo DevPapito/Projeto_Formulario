@@ -3,12 +3,12 @@
 
 ____
 
-<h2>PROJETO</h2>
+<h2>Projeto</h2>
 <p>
 Esse é um projeto de uma ideia de readme.md que tive
 gosto bastante de bla bla bla
 </p>
-<h2>TECNOLOGIAS</h2>
+<h2>Tecnologias</h2>
   
 <ul>
   
@@ -18,12 +18,12 @@ gosto bastante de bla bla bla
 <li>JavaScript</li>
 
 </ul>
-<h2>PONTOS PRINCIPAIS DO PROJETO</h2>
+<h2>Pontos Principais Do Projeto</h2>
 <p>Essa parte demonstra o fator bla bla bla</p>
 <img href="#" height="100px" width="500px">
 <p>Outro ponto legal é esse bla bla bla </p>
 <img href="#" height="100px" width="500px">
-<h2>Disponibilidade de uso</h2>
+<h2>Disponibilidade De Uso</h2>
 
 <h3><i>FECHADO</i></h3>
 <p> | Não disponivel para uso</p>
