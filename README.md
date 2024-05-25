@@ -25,9 +25,11 @@ gosto bastante de bla bla bla
 <img href="#" height="100px" width="500px">
 <h2>Disponibilidade de uso</h2>
 
-
 <h3><i>FECHADO</i></h3>
 <p> | Não disponivel para uso</p>
 <h3><i>DISPONÍVEL</i></h3>
 <p> | Link para dowload ou acesso: </p>
 <a href="#">Projeto aqui</a>
+<h2>Contato</h2>
+<p>Caso queira tirar alguma dúvida do projeto ou dar feedback, não hesite em entrar em contato</p>
+<p>Email: pietroeziosuzano@gmail.com</p>
