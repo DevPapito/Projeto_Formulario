@@ -4,7 +4,7 @@
 <!--- LIST IN LS --->
 
 <!--- GIF CAMPE 01 --->
-<img hef="#" height="500px" width="500px">
+<img scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVtaTllYnlpZHp1bml6OTZqcG9rMTRuejVzOXJ6ZHhuaGs0MjA0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bVz7PT6q2DXWUngeKJ/giphy.gif">
 <br>
 
 ____
