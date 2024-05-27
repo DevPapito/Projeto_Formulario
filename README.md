@@ -37,10 +37,11 @@ Também comportanto um arquivo de bando de dados (formularioData.sql) e arquivos
 <h2>Pontos Principais Do Projeto</h2>
 
 <!--- SCRIPT --->
-<p>Essa parte demonstra o fator bla bla bla</p>
+<p>O campo foi criado em base de um design utilizando da ferramente Figma, a principal biblioteca em uso é a do python(Tkinter), uma biblioteca gráfica simples, antiga porém foi perfeita para o projeto.
+</p>
 
 <!--- GIF CAMPE 02 --->
-<img src="#" height="100px" width="500px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ2ZGQ3Y3k5N2t6OXlmZHRwZXZkZHA0emliMWFtaG1wNDA5YTd5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNQt9gNJegfQ2ldBsc/giphy.gif">
 
 <!--- SCRIPT --->
 <p>Outro ponto legal é esse bla bla bla </p>
