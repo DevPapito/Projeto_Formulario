@@ -1,0 +1,331 @@
+
+body{
+
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /* CONFIG SCREEN*/
+    max-height:1440px;
+    height: 900px;
+    min-height: 720px;
+
+    max-width: 2560px; 
+    width: 100%;
+    min-width: 1280px;
+
+    /* END ---- MAX TOTAL: FULL HD*/
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+/* ANIMETIONS */
+
+
+/* ---- */
+
+/* hyperLink Defoult*/
+a{
+
+    all:unset;
+    cursor: pointer;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: all 0.30s;
+
+
+}
+a:hover{
+
+    position: relative;
+    bottom: 2px;
+
+    color: #107F48;
+
+    transition: all 0.10s;
+
+
+}
+/* ----- */
+
+/* CLASSES */
+.defoultString{
+    
+    color: #0A051A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    
+}
+.navString{
+
+    color: #ECF1F1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: xx-large;
+    color: #ECF1F1;
+}
+.roboto-light:hover {
+
+    cursor: pointer;
+
+}
+.roboto-regular_title {
+    font-family: "Roboto", sans-serif;
+    color: #ECF1F1;
+    font-size: 30px;
+    padding-top:37px;
+    
+}
+.roboto-regular_row {
+    font-family: "Roboto", sans-serif;
+    color: #ECF1F1;
+    font-size: 18px;
+    padding-right: 250px;
+    
+    
+}
+.roboto-regular_button {
+    font-family: "Roboto", sans-serif;
+    color: #3CB87A;
+    font-size: 17px;
+    padding-right: 380px;
+    
+}
+
+.defoultIcon{
+
+    height: 20px;
+    width: 20px;
+
+}
+
+/* START --- INFO BAR COMFIG --- */
+#infoBar{
+
+
+    height: 10%;
+    width: 100%;
+
+    background-color: #ECF1F1;
+
+    display: flex;
+
+}
+        .slicing_email_tel{
+
+        height: 100%;
+        width: 50%;
+
+        background-color: transparent;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        gap: 9px;
+
+}
+        .slicing_Endere{
+
+        height: 100%;
+        width: 50%;
+        background-color: transparent;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+
+}
+/* --- INFO BAR COMFIG --- END*/
+
+/* START --- NAV BAR CONFIG --- */
+#navBar{
+
+    position: relative;
+
+    height: 10%;
+    width: 100%;
+
+    background-color: #020108;
+
+    display: flex;
+
+    /* box-shadow: 0 60px 80px red;  */
+
+}
+    .navSlicing_empresa{
+
+        height: 100%;
+        width: 50%;
+
+        background-color: transparent;
+
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        gap: 10px;
+
+}
+        .logoEmpresa{
+
+        padding-left: 110px;
+
+}
+    .navSlicing_hyperLinks{
+
+        height: 100%;
+        width: 50%;
+
+        background-color: transparent;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+
+}
+
+/* --- NAV BAR CONFIG --- END */
+
+/*  START --- VIEW PROJECT CONFIG --- */
+#viewProject{
+
+    height: 75%;
+    width: 100%;
+    background-color: #107F48;
+
+    display: flex;
+
+}
+        .viewSlicing_project{
+
+        height: 100%;
+        width: 40%;
+        background-color: transparent;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+        .imagemProjeto{
+
+        height: 550px;
+        width: 360px;
+        padding-left: 60px;
+
+}
+
+/* --- VIEW PROJECT CONFIG --- END*/
+
+/*  START --- VIEW INFO CONFIG ---*/
+.viewSlicing_button{
+
+    height: 100%;
+    width: 60%;
+    background-color: transparent;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+        .spaceTitle{
+
+        height: 30%;
+        width: 100%;
+        background-color: transparent;
+
+        display: flex;
+        align-items: center;
+        justify-content: start;
+
+}
+        .spaceInfo{
+
+        height: 30%;
+        width: 100%;
+        background-color: transparent;
+
+}
+        .spaceButton{
+
+        height: 40%;
+        width: 100%;
+        background-color: transparent;
+
+        display: flex;
+        align-items: center;    
+        justify-content: start;
+
+}
+        .button{
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        height: 50px;   
+        width: 200px;
+        border: transparent ;
+        background-color: 0;
+        /* color: #3CB87A; */
+        cursor: pointer;
+        font-size: large;
+        background-color: #C4C4C4;
+        color: #107F48;
+        transition: all 0.20s;
+        
+        border-radius: 5px;
+
+
+}
+        .button:hover{
+
+        transition: all 0.10s;
+        color: #3CB87A;
+        background-color: #e0e0e0;
+
+}
+        .button:active{
+
+        transition: all 0.005s;
+
+        background-color: transparent;
+        border: solid #C4C4C4 2px;
+        color: #C4C4C4;
+
+}
+/* --- VIEW INFO CONFIG --- END*/
+#footerBar{
+
+    height: 5%;
+    width: 100%;
+    background-color: #020108;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* otimizações */
+/* --- tablet --- */
+
+
