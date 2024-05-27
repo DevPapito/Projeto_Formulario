@@ -3,8 +3,10 @@
 <!--- HYPERLINK IN HP --->
 <!--- LIST IN LS --->
 
+<!--- To convert the gif I used the EZGIF website -->
+
 <!--- GIF CAMPE 01 --->
-<img scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVtaTllYnlpZHp1bml6OTZqcG9rMTRuejVzOXJ6ZHhuaGs0MjA0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bVz7PT6q2DXWUngeKJ/giphy.gif">
+<img src="#" height="500px" width="500px">
 <br>
 
 ____
@@ -37,13 +39,13 @@ gosto bastante de bla bla bla
 <p>Essa parte demonstra o fator bla bla bla</p>
 
 <!--- GIF CAMPE 02 --->
-<img href="#" height="100px" width="500px">
+<img src="#" height="100px" width="500px">
 
 <!--- SCRIPT --->
 <p>Outro ponto legal é esse bla bla bla </p>
 
 <!--- GIF CAMPE 03 --->
-<img href="#" height="100px" width="500px">
+<img src="#" height="100px" width="500px">
 
 <!--- TITLE --->
 <h2>Disponibilidade De Uso</h2>
@@ -61,7 +63,7 @@ gosto bastante de bla bla bla
 <p> | Link para dowload ou acesso: </p>
 
 <!--- HP --->
-<a href="#">Projeto aqui</a>
+<a src="#">Projeto aqui</a>
 
 <!--- TITLE --->
 <h2>Contato</h2>
