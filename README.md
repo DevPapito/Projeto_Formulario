@@ -6,7 +6,7 @@
 <!--- To convert the gif I used the EZGIF website -->
 
 <!--- GIF CAMPE 01 --->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB1ZmMyb3hjbHlvcjZmNDJoM292bHk5cTViMXNxcTR2c2p0MmY5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bVz7PT6q2DXWUngeKJ/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB1ZmMyb3hjbHlvcjZmNDJoM292bHk5cTViMXNxcTR2c2p0MmY5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bVz7PT6q2DXWUngeKJ/giphy.gif" width="600px">
 <br>
 
 ____
