@@ -19,7 +19,7 @@ Esse é um projeto que desenvolvi para aprendizado de conexão com MySQL em Pyth
   
 No projeto é possivel adicionar dados nos campos (Nome, Emai e Sobre), inspirado em informações de uma entrevista de emprego ou algo semelhante.
 
-Também comportanto um arquivo de bando de dados (formularioData.sql) e arquivos do website inspirado nesse programa em Html e Css (index.hmtl e style_formulario.css)
+Também comportanto um arquivo de bando de dados (formularioData.sql) e arquivos do website inspirado nesse programa em Html e Css (index.hmtl e style_formulario.css), o mesmo possui outros arquivos python(pacotes) criados por mim com o objetivo conexão do banco MySQL e tratamento de Strings(conjuto de caracteres do usuário).
 </p>
 
 <!--- TITLE --->
@@ -57,15 +57,6 @@ Também comportanto um arquivo de bando de dados (formularioData.sql) e arquivos
 
 <!--- SCRIPT --->
 <p> | Não disponivel para uso</p>
-
-<!--- TITLE --->
-<h3><i>DISPONÍVEL</i></h3>
-
-<!--- SCRIPT --->
-<p> | Link para dowload ou acesso: </p>
-
-<!--- HP --->
-<a src="#">Projeto aqui</a>
 
 <!--- TITLE --->
 <h2>Contato</h2>
