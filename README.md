@@ -44,10 +44,10 @@ Também comportanto um arquivo de bando de dados (formularioData.sql) e arquivos
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ2ZGQ3Y3k5N2t6OXlmZHRwZXZkZHA0emliMWFtaG1wNDA5YTd5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNQt9gNJegfQ2ldBsc/giphy.gif">
 
 <!--- SCRIPT --->
-<p>Outro ponto legal é esse bla bla bla </p>
+<p>Além de direcionar ao banco de dados, no terminal da operação é possivel receber as informações já processadas no mesmo momento de envio</p>
 
 <!--- GIF CAMPE 03 --->
-<img src="#" height="100px" width="500px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5wd3YzZzY5OXFxYWE4anphbG5kbXU4eHoxMncyaWE5bjl4OXB1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jI33Ij1TZFA8t7uuCL/giphy.gif">
 
 <!--- TITLE --->
 <h2>Disponibilidade De Uso</h2>
