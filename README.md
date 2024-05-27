@@ -6,7 +6,7 @@
 <!--- To convert the gif I used the EZGIF website -->
 
 <!--- GIF CAMPE 01 --->
-<img src="#" height="500px" width="500px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB1ZmMyb3hjbHlvcjZmNDJoM292bHk5cTViMXNxcTR2c2p0MmY5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bVz7PT6q2DXWUngeKJ/giphy.gif">
 <br>
 
 ____
@@ -15,8 +15,11 @@ ____
 
 <!--- SCRIPT --->
 <p>
-Esse é um projeto de uma ideia de readme.md que tive
-gosto bastante de bla bla bla
+Esse é um projeto que desenvolvi para aprendizado de conexão com MySQL em Python, tratamento de dados e formulario back-end. 
+  
+No projeto é possivel adicionar dados nos campos (Nome, Emai e Sobre), inspirado em informações de uma entrevista de emprego ou algo semelhante.
+
+Também comportanto um arquivo de bando de dados (formularioData.sql) e arquivos do website inspirado nesse programa em Html e Css (index.hmtl e style_formulario.css)
 </p>
 
 <!--- TITLE --->
@@ -26,9 +29,7 @@ gosto bastante de bla bla bla
 <ul>
   
 <li>Python</li>
-<li>Java</li>
 <li>Html e Css</li>
-<li>JavaScript</li>
 
 </ul>
 
