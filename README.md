@@ -19,7 +19,7 @@ ____
 <p>
 Esse é um projeto que desenvolvi para aprendizado de conexão com MySQL em Python, tratamento de dados e formulario back-end. 
   
-No projeto é possivel adicionar dados nos campos (Nome, Emai e Sobre), inspirado em informações de uma entrevista de emprego ou algo semelhante.
+No projeto é possivel adicionar dados nos campos (Nome, Email e Sobre), inspirado em informações de uma entrevista de emprego ou algo semelhante.
 
 Também comportanto um arquivo de bando de dados (formularioData.sql) e arquivos do website inspirado nesse programa em Html e Css (index.hmtl e style_formulario.css), o mesmo possui outros arquivos python(pacotes) criados por mim com o objetivo conexão do banco MySQL e tratamento de Strings(conjuto de caracteres do usuário).
 </p>
