@@ -27,7 +27,7 @@ body{
 
 /* ---- */
 
-/* hyperLink Defoult*/
+/* hyperLink default*/
 a{
 
     all:unset;
@@ -113,7 +113,7 @@ a:hover{
 
 }
 
-/* START --- INFO BAR COMFIG --- */
+/* START --- INFO BAR CONFIG --- */
 #infoBar{
 
 
@@ -151,7 +151,7 @@ a:hover{
         gap: 5px;
 
 }
-/* --- INFO BAR COMFIG --- END*/
+/* --- INFO BAR CONFIG --- END*/
 
 /* START --- NAV BAR CONFIG --- */
 #navBar{
