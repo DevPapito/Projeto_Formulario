@@ -4,7 +4,7 @@
 <!--- LIST IN LS --->
 
 <!--- To convert the gif I used the EZGIF website -->
-
+<!--- To dowload the aplications used the MEGAS --->
 <!--- To convert the gif in URL used the GIPHY website -->
 
 <!--- GIF CAMPE 01 --->
